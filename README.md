@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @nitroscpp
-- 👀 I’m interested in programming especially in c++ language
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me --> hodzicedin078@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love coding and I go to high school for electrical engineering in Tuzla, Bosnia and Herzegovina
+# Hi, I’m Edin Hodžić
 
-<!---
-nitroscpp/nitroscpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a high school student from Tuzla, Bosnia and Herzegovina, passionate about programming and problem solving.
+
+## About me
+- Competitive programmer
+- I love math and working on projects
+- Interested in C++ and algorithms
+- Always learning and improving my skills
+- My goal this year is IOI
+
+## Contact
+- Email: hodzicedin078@gmail.com
